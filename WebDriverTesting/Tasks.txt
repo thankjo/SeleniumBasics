@@ -1,0 +1,3 @@
+﻿https://colorlib.com/etc/regform/colorlib-regform-1/
+https://phppot.com/demo/jquery-ajax-add-edit-modal-window/
+https://fooplugins.github.io/FooTable/docs/examples/component/editing.html

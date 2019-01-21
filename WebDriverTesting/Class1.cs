@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebDriverTesting
 {
-    public class Class1
+    public class TestStartup
     {
     }
 }
